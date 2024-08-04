@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetsuzawa" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhuhu" />
 
 ## Programming Languages
 
