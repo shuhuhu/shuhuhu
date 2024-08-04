@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=shuhuhu&show_icons=true&locale=en&layout=compact)
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,ruby,c,cpp,arduino,raspberrypi" /> <br /><br />
+
