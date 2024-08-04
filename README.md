@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=shuhuhu&show_icons=true&locale=en&layout=compact)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetsuzawa" />
+
 ## Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,ruby,c,cpp,arduino,raspberrypi" /> <br /><br />
