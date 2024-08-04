@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## Public repo Programming Languages
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhuhu" />
 
-## Programming Languages
-
+## Used Programming Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,python,ruby,c,cpp,arduino,raspberrypi" /> <br /><br />
 
