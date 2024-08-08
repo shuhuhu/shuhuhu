@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Public repo Programming Languages
+## Public repo Programming Languages(excluding Private repo)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=shuhuhu&show_icons=true&locale=en&layout=compact)
 
